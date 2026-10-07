@@ -7,7 +7,7 @@
 
 ```bash
 ridwan@workstation:~$ whoami
-> Muhammad Ridwan — Software Engineer & Vision Enthusiast
+> Muhammad Ridwan — FullStack Developer
 ridwan@workstation:~$ cat current_focus.json
 > { "architecture": "PWA & Realtime", "core_tech": ["Next.js", "TypeScript", "Python"], "status": "Ready for Challenges" }
 ```

@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ MUHAMMAD RIDWAN ⚡
-### `Software & Computer Vision Engineer`
+### `FullStack Developer`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Web+%26+Distributed+Systems;Computer+Vision+%26+Deep+Learning+Architectures;Full-Stack+PWA+%7C+TypeScript+%7C+Python+%7C+WebSockets;Focus%3A+Continuous+Engineering+%26+System+Excellence)](https://github.com/Riidwann)
 

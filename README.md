@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ MUHAMMAD RIDWAN ⚡
+#  MUHAMMAD RIDWAN 
 ### `FullStack Developer`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&height=45&lines=Building+Scalable+Web+%26+Distributed+Systems;Computer+Vision+%26+Deep+Learning+Architectures;Full-Stack+PWA+%7C+TypeScript+%7C+Python+%7C+WebSockets;Focus%3A+Continuous+Engineering+%26+System+Excellence)](https://github.com/Riidwann)
@@ -15,7 +15,6 @@ ridwan@workstation:~$ cat current_focus.json
 ---
 
 <!-- ==================== SNAKE CONTRIBUTION ==================== -->
-## 🐍 AUTOMATED CONTRIBUTION PIPELINE
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riidwann/Riidwann/output/github-contribution-grid-snake-dark.svg">
@@ -28,7 +27,7 @@ ridwan@workstation:~$ cat current_focus.json
 </div>
 
 <!-- ==================== SYSTEM ARCHITECTURE ==================== -->
-## 🏗️ SYSTEM ARCHITECTURE & TECH STACK
+## SYSTEM ARCHITECTURE & TECH STACK
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -77,20 +76,20 @@ ridwan@workstation:~$ cat current_focus.json
 ---
 
 <!-- ==================== FEATURED BLUEPRINTS ==================== -->
-## 🚀 ENGINEERING BLUEPRINTS (FEATURED REPOSITORIES)
+## ENGINEERING BLUEPRINTS (FEATURED REPOSITORIES)
 
 | Blueprint & Architecture | Technical Highlights & Stack | Source & Deployment |
 | :----------------------- | :--------------------------- | :------------------ |
-| **🌿 KaizenFlow — Habit Tracker**<br>`PWA` • `Clean Architecture` | • Zen Japandi minimal UX with 1% Kaizen atomic rule<br>• 100% Offline-First client state architecture<br>• Mobile-First PWA installable on iOS & Android<br>• Fully tested with Vitest & WCAG AA accessible | [📂 Repository](https://github.com/Riidwann/Kaizen-Habit-Tracker)<br>[🌐 Live Web App](https://kaizen-chi-nine.vercel.app) |
-| **🎮 Game Realtime Tic-Tac-Toe**<br>`Full-Duplex` • `Event-Driven` | • Low-latency bidirectional WebSocket synchronization<br>• Real-time multiplayer match state management<br>• Zero-polling architecture with persistent connections | [📂 Repository](https://github.com/Riidwann/Game-Realtime-Tic-Tac-Toe) |
-| **🧠 Cat & Dog Classification**<br>`Deep Learning` • `Transfer Learning` | • Convolutional deep neural network with ResNet50<br>• Feature extraction & hyperparameter fine-tuning<br>• High accuracy image classification inference pipeline | [📂 Repository](https://github.com/Riidwann/Cat-Dog-Classification) |
+| ** KaizenFlow — Habit Tracker**<br>`PWA` • `Clean Architecture` | • Zen Japandi minimal UX with 1% Kaizen atomic rule<br>• 100% Offline-First client state architecture<br>• Mobile-First PWA installable on iOS & Android<br>• Fully tested with Vitest & WCAG AA accessible | [📂 Repository](https://github.com/Riidwann/Kaizen-Habit-Tracker)<br>[🌐 Live Web App](https://kaizen-chi-nine.vercel.app) |
+| ** Game Realtime Tic-Tac-Toe**<br>`Full-Duplex` • `Event-Driven` | • Low-latency bidirectional WebSocket synchronization<br>• Real-time multiplayer match state management<br>• Zero-polling architecture with persistent connections | [📂 Repository](https://github.com/Riidwann/Game-Realtime-Tic-Tac-Toe) |
+| ** Cat & Dog Classification**<br>`Deep Learning` • `Transfer Learning` | • Convolutional deep neural network with ResNet50<br>• Feature extraction & hyperparameter fine-tuning<br>• High accuracy image classification inference pipeline | [📂 Repository](https://github.com/Riidwann/Cat-Dog-Classification) |
 
 ---
 
 <!-- ==================== TELEMETRY METRICS ==================== -->
 <div align="center">
 
-## 📊 LIVE TELEMETRY & STATS
+## LIVE TELEMETRY & STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riidwann&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00e5ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
@@ -104,7 +103,7 @@ ridwan@workstation:~$ cat current_focus.json
 ---
 
 <!-- ==================== AUDIO STREAM ==================== -->
-## 🎧 CYBERPUNK AUDIO STREAM // CODING OST
+## CYBERPUNK AUDIO STREAM // CODING OST
 
 <a href="https://open.spotify.com" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
@@ -117,7 +116,7 @@ ridwan@workstation:~$ cat current_focus.json
 ---
 
 <!-- ==================== TERMINAL DISPATCH ==================== -->
-## 📡 TERMINAL DISPATCH // CONNECT
+## TERMINAL DISPATCH // CONNECT
 
 ```bash
 ridwan@workstation:~$ ./dispatch_connect.sh --broadcast

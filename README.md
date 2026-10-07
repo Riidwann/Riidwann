@@ -101,39 +101,5 @@ ridwan@workstation:~$ cat current_focus.json
 </p>
 
 ---
-
-<!-- ==================== AUDIO STREAM ==================== -->
-## CYBERPUNK AUDIO STREAM // CODING OST
-
-<a href="https://open.spotify.com" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  <img src="https://img.shields.io/badge/TRACK-Synthwave%20%2F%20Deep%20Focus%20OST-00ffff?style=for-the-badge&logo=musicbrainz&logoColor=black" alt="Now Playing" />
-  <img src="https://img.shields.io/badge/STATUS-STREAMING%20AUDIO%20%E2%96%B6-00ff9f?style=for-the-badge" alt="Playing" />
-</a>
-
-<p><em>"Code is poetry compiled into machine-executable reality."</em></p>
-
----
-
-<!-- ==================== TERMINAL DISPATCH ==================== -->
-## TERMINAL DISPATCH // CONNECT
-
-```bash
-ridwan@workstation:~$ ./dispatch_connect.sh --broadcast
-```
-
-<p align="center">
-  <a href="https://github.com/Riidwann" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@ridwan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=70&section=footer"/>
 
-</div>
